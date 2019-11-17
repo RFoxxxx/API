@@ -1,6 +1,10 @@
 keydrop.pl
 |
-W;(NIE)W
+key-drop.pl
+|
+lucky-cases.com
+|
+tradeskinsfast.com
 |
 chuj
 |
@@ -473,6 +477,10 @@ opierdoli
 opierdolą
 |
 opierdola
+|
+pedal
+|
+pedał
 |
 piczka
 |
